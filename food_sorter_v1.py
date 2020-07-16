@@ -1,6 +1,5 @@
 import random
 import smtplib, ssl
-import json
 
 port = 465  # For SSL
 smtp_server = "smtp.gmail.com"
